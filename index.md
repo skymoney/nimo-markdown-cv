@@ -4,9 +4,7 @@ title: Ji Xiaoman
 email:
   url: mailto:woden@cs.cmu.edu
   text: woden@cs.cmu.edu
-phone:
-  url: 1234567890
-  text: 1234567890
+phone: 123456789
 ---
 
 # Wode **Ni**
