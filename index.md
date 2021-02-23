@@ -49,11 +49,6 @@ _大安全-国际风险_<br>
 _岗位_<br>
 工作职责<br/>
 
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
-
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
-
 
 ## 项目经验
 
