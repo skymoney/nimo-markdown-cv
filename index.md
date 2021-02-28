@@ -2,8 +2,8 @@
 layout: cv
 title: Ji Xiaoman
 email:
-  url: mailto:xxx@xxx.com
-  text: woden@cs.cmu.edu
+  url: mailto:xiaom1020@126.com
+  text: xiaom1020@126.com
 phone: 123456789
 ---
 
